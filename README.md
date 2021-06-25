@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @josmet52
-- 👀 I’m interested in Raspberry PI, IOT, micro controller ESP32 and python/micropython
+- 👋 Hi, I’m @josmet52 a retired electronics engineer from Switzerland
+- 👀 I spend my time between small projects Raspberry PI, IOT, ESP32, python/micropython and walking or cycling
 - 🌱 I’m currently learning mosquitto-MQTT, micropython
-- 💞️ Currently I'am having fun with the discovery of the development of low energy IOT sensors
+- 💞️ I'm currently having fun with the discovery of the development of low energy IOT sensors
 - 📫 How to reach me: jmb52.dev@gmail.com
 
 <!---
